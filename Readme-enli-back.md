@@ -130,7 +130,7 @@ Run in production npm run start init server.
 
 .title {color:black; font-size:20px}
 
-.back {color:#4B5D84; text-align:	right;}
+.back {color:#4B5D84; text-align:	right; }
 
 .back :hover{color:black; text-decoration:none}
 
