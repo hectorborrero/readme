@@ -120,7 +120,7 @@ Run in production npm run start init server.
 
 <p class="back"><a href="#menu" class="back" >back</a></p>
 <br>
-
+<p>
 <STYLE >
 
 .content { color: #4B5D84;  ; font-size:110% ; text-decoration: none;}
@@ -134,3 +134,4 @@ Run in production npm run start init server.
 .back :hover{color:black; text-decoration:none}
 
 </STYLE>
+</p>
